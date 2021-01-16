@@ -1,3 +1,3 @@
 {
-    "files": ["qml/controls/ToggleButton.qml","main.qml","qml/controls/TopBarButton.qml","main.py","qml/controls/LeftMenuBtn.qml"]
+    "files": ["main.py","qml/controls/CustomRadioButton.qml","qml/pages/splitPage.qml","qml/controls/CustomButton.qml","qml/pages/homePage.qml","qml/controls/ToggleButton.qml","qml/main.qml","qml/pages/mergePage.qml","qml/controls/CustomTextField.qml","qml/controls/TopBarButton.qml","qml/controls/LeftMenuBtn.qml","qml/pages/settingsPage.qml","qml/controls/HomeMenuBtn.qml","qml/pages/convertPage.qml","qml/controls/CustomSwitchToggleBtn.qml"]
 }
